@@ -10,12 +10,15 @@
 <p align="center">
 
 <p align="center"> 
+    &emsp;
+  <a href="github.com/omercanca" target="_blank"> 
+       <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
+   </a>
   &emsp;
   <a href="github.com/omercanca" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <a href="github.com/omercanca" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
