@@ -1,7 +1,7 @@
 ## Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Omer
 ```diff
 @@computational statistics student.@@
-+ student at penn state.
++ senior at penn state.
 - 20 years old
 ! data analyst intern, northrop grumman
 ```
