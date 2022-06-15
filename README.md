@@ -3,8 +3,8 @@
 @@computational statistics student.@@
 + student at penn state.
 - 20 years old
-! stat major, data analyst intern
-# 📖 reverse engineering, computer science
+! data nerd
+# data analyst intern, northrop grumman
 ```
 
 ### Skills
