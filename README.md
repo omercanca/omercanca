@@ -3,16 +3,15 @@
 @@computational statistics student.@@
 + student at penn state.
 - 20 years old
-! stat major, data analyst intern
-# 📖 reverse engineering, computer science
+! data analyst intern, northrop grumman
 ```
 
-### 🛠️ Skills
+### 🛠️Skills
 <p align="center">
 
 </p>
 
-### ☎️ Contact
+### ☎️Contact
 <a href="https://www.linkedin.com/in/omercanca" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a><br>
