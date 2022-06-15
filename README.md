@@ -3,8 +3,7 @@
 @@computational statistics student.@@
 + student at penn state.
 - 20 years old
-! data nerd
-# data analyst intern, northrop grumman
+! data analyst intern, northrop grumman
 ```
 
 ### Skills
