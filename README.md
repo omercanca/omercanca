@@ -1,4 +1,4 @@
-## Hi, I'm Omer :octocat: <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+## Hi, I'm Omer :octocat:                   <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 ```diff
 @@computational statistics student.@@
