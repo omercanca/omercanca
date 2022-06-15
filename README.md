@@ -10,27 +10,36 @@
 <p align="center">
 
 <p align="center"> 
-    &emsp;
+   &emsp;
   <a href="github.com/omercanca" target="_blank"> 
        <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
    </a>
+    
+  &emsp;
+  <a href="github.com/omercanca" target="_blank"> 
+        <img alt="SQLite" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+
   &emsp;
   <a href="github.com/omercanca" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+      
   &emsp;
   <a href="github.com/omercanca" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
+      
    <a href="github.com/omercanca" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp; 
+      
   <a href="github.com/omercanca" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
+      
   <a href="github.com/omercanca/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
