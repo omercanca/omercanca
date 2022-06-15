@@ -37,7 +37,7 @@
   </a> 
     &emsp;
   <a href="github.com/omercanca/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" wdith = "5px">
   </a> 
 </p>
 
