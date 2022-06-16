@@ -1,4 +1,4 @@
-## Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://moot.us/lounges/8/boards/77/posts/447281/when-you-get-in-a-build-battle-with-a-pro" width="30px"> I'm Omer
+## Hola <img src="https://giphy.com/gifs/cat-type-ehcat-wp0PWXANZck7BHr0TF" width="30px"> I'm Omer
 
 ```js
 import DataGeek from 'omercanca';
