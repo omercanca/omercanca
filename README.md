@@ -1,7 +1,7 @@
 ## Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Omer
 ```diff
 @@computational statistics student.@@
-+ senior at penn state.
++ penn state.
 - 20 years old
 ! data analyst intern, northrop grumman
 ```
@@ -42,7 +42,7 @@
 </p>
 
 
-### Contact
+### 🤳🏽 Contact
 <a href="https://www.linkedin.com/in/omercanca" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a><br>
