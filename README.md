@@ -3,10 +3,11 @@
 ```js
 import DataGeek from 'omercanca';
 class Bio extends DataGeek {
-  name     = 'Omer Canca';
-  title    = 'Data Analyst Intern';
-  company  = 'Northrop Grumman';
-  location = 'Penn State';
+  name     = 'omer canca';
+  title    = 'data analyst intern';
+  company  = 'northrop grumman';
+  school   = 'penn state';
+  hobbies  = ['fitness', 'chess', 'knicks']
 }
 ```
 
