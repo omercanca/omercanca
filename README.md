@@ -1,4 +1,4 @@
-## Hola <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I'm Omer
+## Hey, I'm Omer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 ```js
 import DataGeek from 'omercanca';
