@@ -1,8 +1,9 @@
 ## Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I'm Omer
 
 ```js
-import DataGeek from 'omercanca';
-class Bio extends DataGeek {
+import welcome from 'omercanca';
+
+class Bio extends welcome {
   name     = 'omer canca';
   title    = 'data analyst intern';
   company  = 'northrop grumman';
