@@ -1,10 +1,15 @@
-## Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Omer
-```diff
-@@computational statistics student.@@
-+ penn state.
-- 20 years old
-! data analyst intern, northrop grumman
+## Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://moot.us/lounges/8/boards/77/posts/447281/when-you-get-in-a-build-battle-with-a-pro" width="30px"> I'm Omer
+
+```js
+import DataGeek from 'omercanca';
+class Bio extends DataGeek {
+  name     = 'Omer Canca';
+  title    = 'Data Analyst Intern';
+  company  = 'Northrop Grumman';
+  location = 'Penn State';
+}
 ```
+
 
 ### 🛠️ Skills
 <p align="center">
