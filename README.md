@@ -16,7 +16,7 @@ class Bio extends welcome {
 ### 🛠️ Skills
 <p align="center">
    &emsp;
-  <a href="github.com/omercanca" target="_blank"> 
+  <a href="[github.com/omercanca](https://github.com/omercanca/Regression-Projects)" target="_blank"> 
        <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
    </a>    
   &emsp;
