@@ -5,8 +5,8 @@ import welcome from 'omercanca';
 
 class Bio extends welcome {
   name     = 'omer canca';
-  title    = 'data analyst intern';
-  company  = 'northrop grumman';
+  title    = 'incoming data engineer';
+  company  = 'chevron';
   school   = 'penn state';
   hobbies  = ['fitness', 'chess', 'knicks']
 }
