@@ -8,7 +8,7 @@ class Bio extends welcome {
   title    = 'system engineer';
   company  = 'Lockheed Martin';
   school   = 'b.s. stat @ penn state; m.s. cs @ hopkins';
-  hobbies  = ['gym', 'family', 'reading']
+  hobbies  = ['skiing', 'family', 'reading']
 }
 ```
 
